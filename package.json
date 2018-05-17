@@ -1,0 +1,23 @@
+{
+  "name": "nodejspractise",
+  "version": "1.0.0",
+  "description": "practise using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewJBateman/nodejsPractise.git"
+  },
+  "author": "AndrewJBateman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewJBateman/nodejsPractise/issues"
+  },
+  "homepage": "https://github.com/AndrewJBateman/nodejsPractise#readme"
+}
