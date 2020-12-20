@@ -53,7 +53,7 @@ app.get('/', function (req, res) {
 ## :clipboard: Status & To-Do List
 
 * Status: Working
-* To-Do: nothing
+* To-Do: add extra stuff
 
 ## :clap: Inspiration
 
