@@ -1,6 +1,12 @@
 # :zap: Node.js Practise
 
 * Uses Node.js to return 'hello world' from the server
+* **Note:** to open web links in a new window use: _ctrl+click on link_
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/nodejsPractise?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/nodejsPractise?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/nodejsPractise?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/nodejsPractise?style=plastic)
 
 **\* Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -16,6 +22,7 @@
 	* [:cool: Features](#cool-features)
 	* [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
 	* [:clap: Inspiration](#clap-inspiration)
+	* [:file_folder: License](#file_folder-license)
 	* [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -48,17 +55,21 @@ app.get('/', function (req, res) {
 
 ## :cool: Features
 
-* none
+* None
 
 ## :clipboard: Status & To-Do List
 
 * Status: Working
-* To-Do: add extra stuff
+* To-Do: Nothing
 
 ## :clap: Inspiration
 
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/start-a-working-express-server)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
